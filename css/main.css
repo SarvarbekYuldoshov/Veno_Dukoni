@@ -257,6 +257,8 @@
     color: #0e24e4;
 }
 .hover__button:hover{
+    transform: scale(1.1);
+    transition: 1s;
     margin-top: 20px;
     font-family: "Montserrat" ,sans-serif;
     font-size: 16px;
@@ -333,6 +335,8 @@
 }
 .wrapper__input:hover{
     color: #FFFFFF;
+    transform: scale(1.1);
+    transition: 1s;
     text-align: center;
     margin-top: 20px;
     margin-left: 400px;
@@ -353,6 +357,8 @@
     color: #FFFFFF;
 }
 .wrapper__input-one:hover{
+    transform: scale(1.1);
+    transition: 1s;
     box-shadow: 5px 5px 5px 5px;
     color: #FFFFFF;
     text-align: center;
@@ -396,6 +402,8 @@
     text-align: center;    
 }
 .wrapper__button:hover{
+    transform: scale(1.1);
+    transition: 1s;
     box-shadow: 3px 3px 3px 3px;
     background:blue;
     border:1px solid blue;
